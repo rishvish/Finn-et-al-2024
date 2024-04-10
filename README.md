@@ -3,10 +3,6 @@
 
 # Design principles for multi-species productive grasslands: quantifying effects of diversity beyond richness
 
-<style>
-body {
-text-align: justify}
-</style>
 <!-- badges: start -->
 
 [![Paper
@@ -14,6 +10,8 @@ DOI](https://img.shields.io/badge/Paper_DOI-To_be_added_soon-green)]()
 [![Code
 DOI](https://img.shields.io/badge/Code_DOI-10.5281/zenodo.10953302-blue)](https://zenodo.org/doi/10.5281/zenodo.10953302)
 <!-- badges: end -->
+
+<div style="text-align: justify">
 
 This repository contains the source code for reproducing the figures in
 Finn et al. 2024 (paper link to be added soon).
@@ -48,3 +46,5 @@ Finn et al. 2024 (paper link to be added soon).
 - <u>**Figures Folder:**</u> The folder containing the created resources
   after running the code in `Code for figures.R` and
   `Model coefficients.R` files.
+
+</div>
