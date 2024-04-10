@@ -1,9 +1,8 @@
-
 # Design principles for multi-species productive grasslands: quantifying effects of diversity beyond richness
 
 <!-- badges: start -->
-<!-- [![Paper DOI](https://img.shields.io/badge/Paper_DOI-10.1007/s10651--023--00563--w-green)](https://doi.org/10.1007/s10651-023-00563-w)
-[![Code DOI](https://img.shields.io/badge/Code_DOI-10.5281/zenodo.10827269-blue)](https://doi.org/10.5281/zenodo.10827269) -->
+[![Paper DOI](https://img.shields.io/badge/Paper_DOI-To_be_added_soon-green)]()
+[![Code DOI](https://img.shields.io/badge/Code_DOI-10.5281/zenodo.10953302-blue)](https://zenodo.org/doi/10.5281/zenodo.10953302) 
 <!-- badges: end -->
 
 This repository contains the source code for reproducing the figures in Finn et al. 2024 (paper link to be added soon).
